@@ -1,4 +1,4 @@
-package com.globant.employeeservice.service;
+/*package com.globant.employeeservice.service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
@@ -20,3 +20,4 @@ public class KafkaProducerService {
         kafkaTemplate.send("employee-management-topic", message);
     }
 }
+*/

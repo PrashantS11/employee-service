@@ -1,4 +1,4 @@
-package com.globant.employeeservice.service;
+/*package com.globant.employeeservice.service;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;
@@ -13,3 +13,4 @@ public class KafkaConsumerService {
     }
 }
 
+*/
